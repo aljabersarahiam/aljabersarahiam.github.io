@@ -3,6 +3,6 @@ layout: page
 title: من أنا
 permalink: /about/
 ---
-سارة محمد الجابر      
+سارة آل جابر      
 ### لمراسلتي
 Twitter: @s4o_o
