@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: نصف جاهل 
+title: لا أعلم 
 ---
 
 
